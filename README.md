@@ -43,3 +43,7 @@ I want to become a "software developer"
 - Dedication
 ### **Weaknesses**
 -Taking on too much responsibility
+### **Certificates**
+- Basics Of Python
+- Ms office
+- AWS cloud literacy
