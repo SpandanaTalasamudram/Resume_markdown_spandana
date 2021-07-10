@@ -20,7 +20,7 @@
 - Percentage : 83% <br>
 - Address : Srikakulam <br>
 
-**SSC**
+**SSC**             
 -School Name: _AmmaOdi High School Tekkali_ <br>
 -Year of Pass  : 2016 <br>
 -Percentage : 90% <br>
